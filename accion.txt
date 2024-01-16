@@ -1,2 +1,0 @@
-accion 1
-accion 2
